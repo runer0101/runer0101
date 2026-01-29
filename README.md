@@ -1,4 +1,4 @@
-# 👨‍💻 Buenas, Soy Runer 
+# Buenas, Soy Runer 
 
 <div align="center">
   
@@ -6,7 +6,7 @@
   
 </div>
 
-## 🚀 Sobre mí
+## 🚀Un poco sobre mí
 
 - 🎓 Estudiante de **Ingeniería en Sistemas**
 - 💻 Desarrollador Web con enfoque en **Frontend**
@@ -35,15 +35,15 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=runer0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9)
+  <img src="https://github-readme-stats.vercel.app/api?username=runer0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" alt="Estadísticas de GitHub" width="48%" />
   
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=runer0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runer0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9" alt="Lenguajes más usados" width="48%" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=runer0101&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=runer0101&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
 
 </div>
 
@@ -51,13 +51,13 @@
 
 ## 🎯 Proyectos Destacados
 
-### 📚 [proyecto-ingles01](https://github.com/runer0101/proyecto-ingles01)
+###  [proyecto-ingles01](https://github.com/runer0101/proyecto-ingles01)
 Aplicación sencilla para la práctica del idioma inglés desarrollada con Vue.js
 
-### 🔧 [Solución-MPL](https://github.com/runer0101/Solucion-MPL)
+###  [Solución-MPL](https://github.com/runer0101/Solucion-MPL)
 Aplicación web interactiva para resolver problemas de Programación Lineal
 
-### 📐 [simulacion_mallas](https://github.com/runer0101/simulacion_mallas)
+###  [simulacion_mallas](https://github.com/runer0101/simulacion_mallas)
 Simulación de mallas - Mini proyecto de la materia (Álgebra Lineal)
 
 ---
@@ -81,7 +81,7 @@ intereses = {
   
   [![GitHub](https://img.shields.io/badge/GitHub-runer0101-181717?style=for-the-badge&logo=github)](https://github.com/runer0101)
   
-  **💡 "El aprendizaje es un tesoro que seguirá a su dueño en todas partes"**
+  **"El aprendizaje es un tesoro que seguirá a su dueño en todas partes"**
   
 </div>
 
