@@ -2,13 +2,12 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+Web+en+Formaci%C3%B3n;Apasionado+por+la+Ciberseguridad)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+en+Formaci%C3%B3n;Apasionado+por+la+Ciberseguridad)
   
 </div>
 
-## 🚀Un poco sobre mí
+## Un poco sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Sistemas**
 - 💻 Desarrollador Web con enfoque en **Frontend**
 - 🔐 Actualmente aprendiendo **Ciberseguridad**
 - 🌱 Siempre en constante aprendizaje y mejora
@@ -35,15 +34,13 @@
 
 ---
 
-## Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=runer0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" alt="Estadísticas de GitHub" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runer0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9" alt="Lenguajes más usados" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=runer0101&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=runer0101&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runer0101&layout=compact&theme=radical)
 
 </div>
 
