@@ -54,10 +54,10 @@ Practicando activamente en plataformas de hacking ético y CTFs para fortalecer 
 
 <div align="center">
   <a href="https://github.com/runer0101">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=runer0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=runer0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
   </a>
   <a href="https://github.com/runer0101">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runer0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
+    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=runer0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
   </a>
 </div>
 
