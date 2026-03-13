@@ -2,10 +2,10 @@
 
 # Hola, soy Runer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Frontend;Estudiante+de+Ciberseguridad)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Frontend;Vue.js+%26+JavaScript;Python+%26+Linux)
 
 Desarrollador Web enfocado en **Frontend** con experiencia en Vue.js y JavaScript.
-Actualmente formándome en **Ciberseguridad** a través de plataformas como Hack The Box y TryHackMe.
+Apasionado por construir soluciones web interactivas y seguir aprendiendo cada día.
 
 </div>
 
@@ -27,19 +27,6 @@ Actualmente formándome en **Ciberseguridad** a través de plataformas como Hack
 
 ---
 
-## Ciberseguridad
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/TU-USUARIO)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/TU-ID)
-
-</div>
-
-Practicando activamente en plataformas de hacking ético y CTFs para fortalecer mis habilidades en seguridad ofensiva.
-
----
-
 ## Proyectos Destacados
 
 | Proyecto | Descripción | Stack |
@@ -51,6 +38,8 @@ Practicando activamente en plataformas de hacking ético y CTFs para fortalecer 
 ---
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=runer0101&show_icons=true&theme=tokyonight&hide_border=true)
 
 [![GitHub](https://img.shields.io/badge/GitHub-runer0101-181717?style=for-the-badge&logo=github)](https://github.com/runer0101)
 
