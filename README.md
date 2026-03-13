@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hola, soy Runer
+# Hi, I'm Runer 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Frontend;Vue.js+%26+JavaScript;Python+%26+Linux)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Vue.js+%26+JavaScript;Python+%26+Linux)
 
-Desarrollador Web enfocado en **Frontend** con experiencia en Vue.js y JavaScript.
-Apasionado por construir soluciones web interactivas y seguir aprendiendo cada día.
+Frontend Developer with experience in Vue.js and JavaScript.
+Passionate about building interactive web solutions and learning every day.
 
 </div>
 
@@ -31,9 +31,9 @@ Apasionado por construir soluciones web interactivas y seguir aprendiendo cada d
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [Solución-MPL](https://github.com/runer0101/Solucion-MPL) | Resolvedor de problemas de Programación Lineal | Vue.js |
-| [simulacion_mallas](https://github.com/runer0101/simulacion_mallas) | Simulación de mallas — Álgebra Lineal | Python |
-| [proyecto-ingles01](https://github.com/runer0101/proyecto-ingles01) | App de práctica de inglés | Vue.js |
+| [Solucion-MPL](https://github.com/runer0101/Solucion-MPL) | Web app para resolver Simplex, Método Gráfico y Transporte paso a paso | Vue 3 · Vite · Vitest |
+| [simulador-circuitos-malla](https://github.com/runer0101/simulacion_mallas) | Simulador de circuitos en malla con resolución de sistemas de ecuaciones | Python |
+| [practica-ingles-app](https://github.com/runer0101/proyecto-ingles01) | Aplicación web interactiva para practicar vocabulario en inglés | Vue 3 |
 
 ---
 
