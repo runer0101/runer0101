@@ -32,7 +32,7 @@ Fullstack web app with role-based access control, real-time attendance tracking,
 
 `Vue 3` `Express` `PostgreSQL` `Docker` `Vitest` `GitHub Actions` `REST API`
 
-→ [Live Demo](https://runer0101.github.io/EventRoll)
+→ [Production](https://eventroll.zentramid.eu.cc) · [GitHub Pages Demo](https://runer0101.github.io/EventRoll)
 
 ### [Solucion-MPL](https://github.com/runer0101/Solucion-MPL) — Linear Programming Solver
 
