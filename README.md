@@ -17,14 +17,23 @@
 
 I'm a fullstack developer who cares about shipping working products — not just writing code. I build secure, tested, and deployed applications, from database schema to production infrastructure.
 
+- Built [**Zentramind**](https://zentramid.eu.cc) — a multi-tenant SaaS CRM with AI-powered WhatsApp automation, lead scoring (0-100), and real-time conversation takeover. Private repo with real clients.
 - Currently diving into **cloud engineering** and **ethical hacking**
 - Security isn't an afterthought — it's how I design from the ground up (JWT, RBAC, rate limiting, HMAC validation, parameterized queries)
 - I write tests. I use Docker. I set up CI/CD. I deploy to production.
-- Learning: React 19, Next.js, TypeScript, AI/LLM integration
+- Stack I work with daily: React 19, Next.js 16, TypeScript, Fastify 5, Prisma 7, PostgreSQL, Docker
 
 ---
 
 ## Featured Projects
+
+### [Zentramind](https://zentramid.eu.cc) — AI-Powered WhatsApp CRM (SaaS)
+
+Multi-tenant SaaS that automates customer conversations on WhatsApp using OpenAI. Lead scoring, auto-replies, and live dashboard for human takeover.
+
+`Next.js 16` `React 19` `Fastify 5` `TypeScript` `Prisma 7` `PostgreSQL` `OpenAI` `WhatsApp API`
+
+→ [Live](https://zentramid.eu.cc) · Private repo
 
 ### [EventRoll](https://github.com/runer0101/EventRoll) — Event Guest Management System
 
