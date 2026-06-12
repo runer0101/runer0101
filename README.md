@@ -21,48 +21,56 @@
 
 <p align="center">
 
-<a href="https://zentramid.eu.cc" style="text-decoration:none;">
+<a href="https://zentramid.eu.cc" style="text-decoration:none;display:inline-block;">
   <div style="
-    width:360px;
-    background:linear-gradient(135deg, #1a1b26 0%, #1f2335 100%);
-    border:1px solid #f7768e;
-    border-radius:8px;
-    padding:18px;
+    width:420px;
+    background:linear-gradient(135deg, #0a0a0f 0%, #1a0a2e 50%, #2d1b4e 100%);
+    border:2px solid #a00bf1;
+    border-radius:12px;
+    padding:24px 26px;
     text-align:left;
     font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;
-    box-shadow: 0 4px 20px rgba(247, 118, 142, 0.15);
+    box-shadow:0 8px 32px rgba(160, 11, 241, 0.35), 0 0 0 1px rgba(160, 11, 241, 0.1);
+    transition:transform 0.2s ease, box-shadow 0.2s ease;
   ">
-    <div style="display:flex;align-items:center;margin-bottom:10px;">
-      <svg style="margin-right:8px;" width="16" height="16" viewBox="0 0 16 16" fill="#f7768e">
-        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-      </svg>
-      <span style="color:#7aa2f7;font-size:16px;font-weight:700;">Zentramind</span>
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;">
+      <span style="color:#a00bf1;font-size:24px;font-weight:800;letter-spacing:-0.5px;">Zentramind</span>
       <span style="
-        background-color:#f7768e;
-        color:#1a1b26;
+        background:linear-gradient(135deg, #a00bf1 0%, #384bcf 100%);
+        color:#ffffff;
         font-size:10px;
         font-weight:700;
-        border-radius:24px;
-        padding:2px 10px;
-        margin-left:10px;
+        letter-spacing:0.8px;
+        border-radius:20px;
+        padding:4px 12px;
       ">EN DESARROLLO</span>
     </div>
-    <p style="color:#a9b1d6;font-size:12px;margin:0 0 14px 0;line-height:1.6;">
-      SaaS multi-tenant con IA para WhatsApp Business — scoring de leads, respuestas automáticas y takeover humano. Proyecto privado en fase de desarrollo.
+    <p style="color:#f1f5f9;font-size:14px;margin:0 0 10px 0;line-height:1.55;">
+      <strong style="color:#ffffff;">JOYS</strong> — AI-powered WhatsApp CRM.
     </p>
-    <div style="display:flex;align-items:center;gap:12px;font-size:12px;color:#8b949e;">
-      <span style="display:flex;align-items:center;gap:4px;">
-        <span style="width:10px;height:10px;border-radius:50%;background-color:#9ece6a;"></span>
+    <p style="color:#cbd5e1;font-size:13px;margin:0 0 18px 0;line-height:1.6;">
+      Lead scoring, respuestas automáticas con IA y toma de control humana en tiempo real. SaaS multi-tenant privado.
+    </p>
+    <div style="display:flex;align-items:center;gap:14px;font-size:12px;color:#a9b1d6;flex-wrap:wrap;margin-bottom:16px;">
+      <span style="display:flex;align-items:center;gap:6px;">
+        <span style="width:9px;height:9px;border-radius:50%;background-color:#a00bf1;box-shadow:0 0 6px rgba(160,11,241,0.6);"></span>
         Next.js
       </span>
-      <span style="display:flex;align-items:center;gap:4px;">
-        <span style="width:10px;height:10px;border-radius:50%;background-color:#bb9af7;"></span>
+      <span style="display:flex;align-items:center;gap:6px;">
+        <span style="width:9px;height:9px;border-radius:50%;background-color:#384bcf;box-shadow:0 0 6px rgba(56,75,207,0.6);"></span>
         Fastify
       </span>
-      <span style="display:flex;align-items:center;gap:4px;">
-        <span style="width:10px;height:10px;border-radius:50%;background-color:#7aa2f7;"></span>
+      <span style="display:flex;align-items:center;gap:6px;">
+        <span style="width:9px;height:9px;border-radius:50%;background-color:#21b568;box-shadow:0 0 6px rgba(33,181,104,0.6);"></span>
+        OpenAI
+      </span>
+      <span style="display:flex;align-items:center;gap:6px;">
+        <span style="width:9px;height:9px;border-radius:50%;background-color:#1fb5bc;box-shadow:0 0 6px rgba(31,181,188,0.6);"></span>
         PostgreSQL
       </span>
+    </div>
+    <div style="padding-top:12px;border-top:1px solid rgba(160,11,241,0.25);font-size:12px;color:#a00bf1;font-weight:600;letter-spacing:0.3px;">
+      zentramid.eu.cc &nbsp;↗
     </div>
   </div>
 </a>
