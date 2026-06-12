@@ -2,21 +2,22 @@
 
 <a href="https://runer0101.github.io" style="text-decoration:none;">
   <div style="
-    width:320px;
-    background-color:#161b22;
-    border:1px solid #30363d;
-    border-radius:6px;
-    padding:16px;
+    width:360px;
+    background-color:#0d1117;
+    border:1px solid #00ff88;
+    border-radius:8px;
+    padding:20px;
     text-align:center;
     font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;
+    box-shadow: 0 4px 24px rgba(0, 255, 136, 0.2);
   ">
     <div style="display:flex;align-items:center;justify-content:center;margin-bottom:8px;">
-      <svg style="margin-right:8px;" width="16" height="16" viewBox="0 0 16 16" fill="#8b949e">
+      <svg style="margin-right:8px;" width="18" height="18" viewBox="0 0 16 16" fill="#00ff88">
         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
       </svg>
-      <span style="color:#58a6ff;font-size:16px;font-weight:600;">Portafolio Web</span>
+      <span style="color:#00ff88;font-size:20px;font-weight:700;">Portafolio Web</span>
     </div>
-    <p style="color:#8b949e;font-size:12px;margin:0;">runer0101.github.io</p>
+    <p style="color:#7ee787;font-size:12px;margin:0;">Click para ver mis proyectos</p>
   </div>
 </a>
 
@@ -28,7 +29,7 @@
 
 <a href="https://zentramid.eu.cc" style="text-decoration:none;">
   <div style="
-    width:320px;
+    width:360px;
     background:linear-gradient(135deg, #1a1b26 0%, #1f2335 100%);
     border:1px solid #f7768e;
     border-radius:8px;
