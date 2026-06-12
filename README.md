@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://runer0101.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-00b86b?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio_Web-00b86b?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:ccamachod6@gmail.com">
