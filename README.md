@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned
 
 <div align="center">
 
