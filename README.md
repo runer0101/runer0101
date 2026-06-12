@@ -1,31 +1,20 @@
 <div align="center">
 
-# Hi, I'm Runer 
+# Hi, I'm Runer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00ff88&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Security-first+Engineering;Cloud+%26+AI+Integration)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff88&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Production-first+Engineering;Cloud+%26+Security)
 
 **Fullstack Developer — I build production apps from database to deployment.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-runer0101.github.io-00ff88?style=flat-square&logo=safari&logoColor=white)](https://runer0101.github.io)
-[![Email](https://img.shields.io/badge/Email-ccamachod6@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ccamachod6@gmail.com)
+<br>
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-runer0101.github.io-00ff88?style=for-the-badge&logo=safari&logoColor=white)](https://runer0101.github.io)
 
 </div>
 
 ---
 
-### About me
-
-I'm a fullstack developer who cares about shipping working products — not just writing code. I build secure, tested, and deployed applications, from database schema to production infrastructure.
-
-- Built [**Zentramind**](https://zentramid.eu.cc) — a multi-tenant SaaS CRM with AI-powered WhatsApp automation, lead scoring (0-100), and real-time conversation takeover. Private repo with real clients.
-- Currently diving into **cloud engineering** and **ethical hacking**
-- Security isn't an afterthought — it's how I design from the ground up (JWT, RBAC, rate limiting, HMAC validation, parameterized queries)
-- I write tests. I use Docker. I set up CI/CD. I deploy to production.
-- Stack I work with daily: React 19, Next.js 16, TypeScript, Fastify 5, Prisma 7, PostgreSQL, Docker
-
----
-
-## Featured Projects
+## In Production
 
 ### [Zentramind](https://zentramid.eu.cc) — AI-Powered WhatsApp CRM (SaaS)
 
@@ -35,34 +24,40 @@ Multi-tenant SaaS that automates customer conversations on WhatsApp using OpenAI
 
 → [Live](https://zentramid.eu.cc) · Private repo
 
-### [EventRoll](https://github.com/runer0101/EventRoll) — Event Guest Management System
+---
 
-Fullstack web app with role-based access control, real-time attendance tracking, and bulk guest import from Excel. Built with a clean layered architecture and 49 automated tests.
+## Pinned Projects
 
-`Vue 3` `Express` `PostgreSQL` `Docker` `Vitest` `GitHub Actions` `REST API`
+<div align="center">
 
-→ [Live](https://eventroll.zentramid.eu.cc)
+<table>
+<tr>
+<td width="50%">
 
-### [Solucion-MPL](https://github.com/runer0101/Solucion-MPL) — Linear Programming Solver
+[![EventRoll](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=runer0101&repo=EventRoll&theme=tokyonight&hide_border=true)](https://github.com/runer0101/EventRoll)
 
-Educational web app that solves Simplex, Graphical Method, and Transportation problems with step-by-step explanations.
+</td>
+<td width="50%">
 
-`Vue 3` `Vite` `Vitest` `JavaScript`
+[![Solucion-MPL](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=runer0101&repo=Solucion-MPL&theme=tokyonight&hide_border=true)](https://github.com/runer0101/Solucion-MPL)
 
-### [Portfolio](https://github.com/runer0101/runer0101.github.io) — Personal Site
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Bilingual portfolio built with vanilla HTML, CSS, and JavaScript. Responsive, accessible, and optimized.
+[![runer0101.github.io](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=runer0101&repo=runer0101.github.io&theme=tokyonight&hide_border=true)](https://github.com/runer0101/runer0101.github.io)
 
-`HTML` `CSS` `JavaScript`
+</td>
+<td width="50%">
 
-<details>
-<summary>More projects</summary>
+[![simulador-circuitos-malla](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=runer0101&repo=simulador-circuitos-malla&theme=tokyonight&hide_border=true)](https://github.com/runer0101/simulador-circuitos-malla)
 
-- [simulador-circuitos-malla](https://github.com/runer0101/simulador-circuitos-malla) — Web-based circuit mesh simulator for residential current analysis
-- [practica-ingles-app](https://github.com/runer0101/practica-ingles-app) — Interactive English vocabulary learning app built with Vue 3
-- [EduKardex](https://github.com/EduKardex) — Academic management platform (Laravel 10 + Vue 3 + MySQL, 16-table schema)
+</td>
+</tr>
+</table>
 
-</details>
+</div>
 
 ---
 
@@ -71,7 +66,7 @@ Bilingual portfolio built with vanilla HTML, CSS, and JavaScript. Responsive, ac
 <div align="center">
 
 **Frontend**
-  
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -135,8 +130,7 @@ Security isn't a separate interest — it's embedded in how I build:
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-runer0101.github.io-00ff88?style=for-the-badge&logo=safari&logoColor=white)](https://runer0101.github.io)
-[![Email](https://img.shields.io/badge/Email-ccamachod6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccamachod6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-runer0101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/runer0101)
+[![GitHub](https://img.shields.io/badge/GitHub-runer0101-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/runer0101)
+[![Email](https://img.shields.io/badge/Email-ccamachod6@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ccamachod6@gmail.com)
 
 </div>
