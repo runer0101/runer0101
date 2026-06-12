@@ -120,9 +120,7 @@ Security isn't a separate interest — it's embedded in how I build:
 
 <div align="center">
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=runer0101&show_icons=true&theme=tokyonight&hide_border=true)
+## Top Languages
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=runer0101&layout=compact&theme=tokyonight&hide_border=true)
 
