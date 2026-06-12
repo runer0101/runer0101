@@ -14,18 +14,6 @@
 
 ---
 
-## In Production
-
-### [Zentramind](https://zentramid.eu.cc) — AI-Powered WhatsApp CRM (SaaS)
-
-Multi-tenant SaaS that automates customer conversations on WhatsApp using OpenAI. Lead scoring, auto-replies, and live dashboard for human takeover.
-
-`Next.js 16` `React 19` `Fastify 5` `TypeScript` `Prisma 7` `PostgreSQL` `OpenAI` `WhatsApp API`
-
-→ [Live](https://zentramid.eu.cc) · Private repo
-
----
-
 ## Pinned Projects
 
 <div align="center">
@@ -51,7 +39,17 @@ Multi-tenant SaaS that automates customer conversations on WhatsApp using OpenAI
 </td>
 <td width="50%">
 
-[![simulador-circuitos-malla](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=runer0101&repo=simulador-circuitos-malla&theme=tokyonight&hide_border=true)](https://github.com/runer0101/simulador-circuitos-malla)
+<div align="center" style="background-color:#1a1b26; border:1px solid #414868; border-radius:10px; padding:18px;">
+
+**[`Zentramind`](https://zentramid.eu.cc)** — In development / Beta
+
+AI-powered WhatsApp CRM (SaaS) with lead scoring, auto-replies, and live conversation takeover.
+
+`Next.js 16` `Fastify 5` `Prisma 7` `PostgreSQL` `OpenAI`
+
+[Live (beta)](https://zentramid.eu.cc) · Private repo
+
+</div>
 
 </td>
 </tr>
