@@ -2,27 +2,15 @@
 
 <img height="200" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b2e,100:7aa2f7&height=200&section=header&text=Cesar%20Camacho&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Security%20Engineer&descSize=16&descAlignY=60&descColor=c0caf5" />
 
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00ff88?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1b2e)](https://runer0101.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b2e)](https://github.com/runer0101)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b2e)](mailto:ccamachod6@gmail.com)
 
 </div>
 
-<br/>
-
-<div align="center">
-  <samp>I build full-stack web applications with <b>security-first architecture</b> and <b>clean UX</b>. SaaS products, open-source tools — always shipping.</samp>
-</div>
-
-<br/>
-
 ---
 
-<br/>
-
-<h2 align="center">📌 Pinned Projects</h2>
+## 📌 Pinned Projects
 
 <div align="center">
 
@@ -44,13 +32,15 @@
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+  <samp>I build full-stack web applications with <b>security-first architecture</b> and <b>clean UX</b>. SaaS products, open-source tools — always shipping.</samp>
+</div>
 
 ---
 
-<br/>
-
-<h2 align="center">📊 Stats</h2>
+## 📊 Stats
 
 <div align="center">
 
@@ -63,13 +53,9 @@
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<h2 align="center">⭐ Featured</h2>
+## ⭐ Featured
 
 <table align="center">
 <tr><td>
@@ -103,13 +89,9 @@
 </td></tr>
 </table>
 
-<br/>
-
 ---
 
-<br/>
-
-<h2 align="center">🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -145,13 +127,9 @@
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<h2 align="center">🔐 Security-Driven Development</h2>
+## 🔐 Security-Driven Development
 
 <div align="center">
 
@@ -166,13 +144,9 @@ Headers        →  Helmet · restricted CORS · CSRF protection
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<h2 align="center">🏆 Achievements</h2>
+## 🏆 Achievements
 
 <div align="center">
 
@@ -180,11 +154,7 @@ Headers        →  Helmet · restricted CORS · CSRF protection
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
   <sub>© 2025 Cesar Camacho — Built with ☕ and clean commits</sub>
