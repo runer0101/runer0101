@@ -10,51 +10,63 @@
 
 ---
 
-## Projects
+## Pinned Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 [![EventRoll](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=runer0101&repo=EventRoll&theme=tokyonight&hide_border=true)](https://github.com/runer0101/EventRoll)
 
 </td>
-<td width="50%">
+<td width="33%">
 
 [![Solucion-MPL](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=runer0101&repo=Solucion-MPL&theme=tokyonight&hide_border=true)](https://github.com/runer0101/Solucion-MPL)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
 [![runer0101.github.io](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=runer0101&repo=runer0101.github.io&theme=tokyonight&hide_border=true)](https://github.com/runer0101/runer0101.github.io)
 
 </td>
-<td width="50%">
-
-<div align="center" style="background-color:#1a1b26; border-radius:6px; padding:16px; max-width:420px; text-align:left; font-family:Helvetica,Arial,sans-serif; color:#a9b1d6;">
-
-  <div style="margin-bottom:6px;">
-    <a href="https://zentramid.eu.cc" style="color:#7aa2f7; font-size:18px; font-weight:600; text-decoration:none;">Zentramind</a>
-    <span style="background-color:#f7768e; color:#1a1b26; font-size:10px; font-weight:700; padding:2px 8px; border-radius:12px; margin-left:6px; vertical-align:middle;">BETA</span>
-  </div>
-
-  <div style="color:#a9b1d6; font-size:13px; line-height:1.4; margin-bottom:12px;">
-    AI-powered WhatsApp CRM (SaaS) with lead scoring, auto-replies, and live conversation takeover.
-  </div>
-
-  <div style="color:#565f89; font-size:12px;">
-    <span style="color:#3178c6;">●</span>&nbsp;TypeScript&nbsp;&nbsp;&nbsp;Private repo
-  </div>
+</tr>
+</table>
 
 </div>
 
-</td>
-</tr>
-</table>
+---
+
+## Featured
+
+<div align="center">
+
+<div style="background-color:#1a1b26; border-radius:10px; padding:24px; max-width:620px; text-align:left; font-family:Helvetica,Arial,sans-serif; color:#a9b1d6; border-left:4px solid #f7768e;">
+
+  <div style="margin-bottom:10px;">
+    <a href="https://zentramid.eu.cc" style="color:#7aa2f7; font-size:22px; font-weight:700; text-decoration:none;">Zentramind</a>
+    <span style="background-color:#f7768e; color:#1a1b26; font-size:11px; font-weight:700; padding:3px 10px; border-radius:12px; margin-left:8px; vertical-align:middle;">BETA</span>
+  </div>
+
+  <div style="color:#a9b1d6; font-size:14px; line-height:1.5; margin-bottom:16px;">
+    AI-powered WhatsApp CRM (SaaS) with lead scoring, auto-replies, and live conversation takeover. Multi-tenant, real clients in production.
+  </div>
+
+  <div style="margin-bottom:16px;">
+    <code style="color:#9ece6a; background-color:#1f2335; padding:3px 8px; border-radius:5px; font-size:12px;">Next.js 16</code>&nbsp;
+    <code style="color:#9ece6a; background-color:#1f2335; padding:3px 8px; border-radius:5px; font-size:12px;">Fastify 5</code>&nbsp;
+    <code style="color:#9ece6a; background-color:#1f2335; padding:3px 8px; border-radius:5px; font-size:12px;">Prisma 7</code>&nbsp;
+    <code style="color:#9ece6a; background-color:#1f2335; padding:3px 8px; border-radius:5px; font-size:12px;">PostgreSQL</code>&nbsp;
+    <code style="color:#9ece6a; background-color:#1f2335; padding:3px 8px; border-radius:5px; font-size:12px;">OpenAI</code>
+  </div>
+
+  <div>
+    <a href="https://zentramid.eu.cc" style="color:#7aa2f7; text-decoration:none; font-size:14px; font-weight:600;">→ Live (beta)</a>
+    &nbsp;&nbsp;<span style="color:#565f89; font-size:12px;">Private repo</span>
+  </div>
+
+</div>
 
 </div>
 
