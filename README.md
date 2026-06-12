@@ -1,20 +1,16 @@
 <div align="center">
 
-# Hi, I'm Runer
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff88&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Production-first+Engineering;Cloud+%26+Security)
-
-**Fullstack Developer — I build production apps from database to deployment.**
-
 <br>
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-runer0101.github.io-00ff88?style=for-the-badge&logo=safari&logoColor=white)](https://runer0101.github.io)
+
+<br>
 
 </div>
 
 ---
 
-## Pinned Projects
+## Projects
 
 <div align="center">
 
@@ -39,15 +35,20 @@
 </td>
 <td width="50%">
 
-<div align="center" style="background-color:#1a1b26; border:1px solid #414868; border-radius:10px; padding:18px;">
+<div align="center" style="background-color:#1a1b26; border-radius:6px; padding:16px; max-width:420px; text-align:left; font-family:Helvetica,Arial,sans-serif; color:#a9b1d6;">
 
-**[`Zentramind`](https://zentramid.eu.cc)** — In development / Beta
+  <div style="margin-bottom:6px;">
+    <a href="https://zentramid.eu.cc" style="color:#7aa2f7; font-size:18px; font-weight:600; text-decoration:none;">Zentramind</a>
+    <span style="background-color:#f7768e; color:#1a1b26; font-size:10px; font-weight:700; padding:2px 8px; border-radius:12px; margin-left:6px; vertical-align:middle;">BETA</span>
+  </div>
 
-AI-powered WhatsApp CRM (SaaS) with lead scoring, auto-replies, and live conversation takeover.
+  <div style="color:#a9b1d6; font-size:13px; line-height:1.4; margin-bottom:12px;">
+    AI-powered WhatsApp CRM (SaaS) with lead scoring, auto-replies, and live conversation takeover.
+  </div>
 
-`Next.js 16` `Fastify 5` `Prisma 7` `PostgreSQL` `OpenAI`
-
-[Live (beta)](https://zentramid.eu.cc) · Private repo
+  <div style="color:#565f89; font-size:12px;">
+    <span style="color:#3178c6;">●</span>&nbsp;TypeScript&nbsp;&nbsp;&nbsp;Private repo
+  </div>
 
 </div>
 
