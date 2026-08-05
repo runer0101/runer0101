@@ -1,4 +1,4 @@
-<h1 align="center">Cesar Camacho Duran</h1>
+<h1 align="center">Cesar Camacho</h1>
 <h3 align="center" style="color:#00b86b; margin-top:-12px;">RUNER</h3>
 
 <p align="center">
