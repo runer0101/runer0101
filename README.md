@@ -17,6 +17,11 @@
 
 Aplicaciones web completas: esquema de base de datos, permisos en el servidor, interfaz y despliegue. Lo que me distingue no es el framework, sino lo que queda detrás: una garantía en la base de datos, una prueba que la demuestra y un pipeline que la vigila.
 
+### [Event-Roll](https://github.com/runer0101/Event-Roll) — control de acceso en vivo para eventos
+
+Importación de invitados desde Excel, un código por ayudante con permisos individuales y marcado de entradas en tiempo real. **El check-in es atómico**: dos guardias sobre el mismo invitado producen una sola entrada, garantizado por la base de datos y no por el código de la aplicación.
+`Next.js 16 · Prisma · PostgreSQL · 54 pruebas · CI con typecheck, lint y e2e` · [demo](https://event-roll.vercel.app)
+
 ### [canchas-api](https://github.com/runer0101/canchas-api) — reservas que no pueden solaparse
 
 Backend puro. Dos reservas activas de la misma cancha no pueden coexistir: lo impone un `exclusion constraint` de PostgreSQL sobre `tstzrange`, así que dos peticiones simultáneas reciben una reserva y un `409`, sin ventana entre la lectura y la escritura.
