@@ -32,15 +32,27 @@ Backend puro. Dos reservas activas de la misma cancha no pueden coexistir: lo im
 Resuelve las corrientes y verifica la ley de tensiones malla por malla, con el circuito dibujado. Dos implementaciones equivalentes (Python como oráculo, Rust como servicio) con paridad numérica probada a 1e-9.
 `Rust · axum · Docker · 54 pruebas · despliegue en Render` · [demo](https://simulador-circuitos-malla.onrender.com)
 
-## Stack
+## Especialidad y herramientas
 
-**Lenguajes** TypeScript · JavaScript · Rust · SQL · PHP
-**Frontend** React · Next.js · Vue
-**Backend** Fastify · Express · Node.js · Laravel
-**Datos** PostgreSQL · Prisma · migraciones versionadas
-**Pruebas** Vitest · Playwright · cargo test
-**Infraestructura** Docker · GitHub Actions · Vercel · Render · fundamentos de AWS
-**Seguridad** OWASP Top 10 · autorización por rol y por inquilino · auditoría de dependencias · revisión con informe de severidad
+Cada área empieza por lo que uso a diario; debajo queda lo que he trabajado sin ser mi centro.
+
+**Frontend** — Especialidad: **Next.js** y **Vue.js**
+También he trabajado con: TypeScript · React · JavaScript · Tailwind · Vite · HTML/CSS
+
+**Backend** — Especialidad: **Node.js** y **Python**
+También he trabajado con: TypeScript · Fastify · Rust · Express · Laravel · PHP
+
+**Datos** — Especialidad: **PostgreSQL**
+También he trabajado con: MySQL · Prisma · migraciones versionadas
+
+**Entrega** — Especialidad: **Docker** y **GitHub Actions**
+También he trabajado con: Linux · Nginx · Git · Vercel · Render · fundamentos de AWS
+
+**Pruebas** — Especialidad: **Vitest** y **Playwright**
+También he trabajado con: PHPUnit · cargo test
+
+**Seguridad** — Especialidad: **OWASP Top 10** y **autorización por rol y por inquilino**
+También he trabajado con: auditoría de dependencias · revisión con informe de severidad · contraseñas y sesiones · validación en el servidor
 
 ## Cómo trabajo
 
